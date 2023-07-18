@@ -1,6 +1,7 @@
  ## 서비스 소개
- [푸이]는 개인 입맛 유형을 기반으로 음식점을 추천받거나 지인과 공유하는 서비스입니다. </br>
- MZ 세대에 유행한 성격유형 검사 MBTI에 착안하여 입맛 유형검사 (FOOIYTI, 푸이티아이)를 만들었습니다. </br>
- 푸이티아이는 여러 설문을 통해 입맛 유형을 얻을 수 있으며, 16가지 유형 중 한 가지를 획득하게 됩니다.</br>
- 
-![image](https://github.com/Hooooni98/api.fooiy.com/assets/90373395/9a492890-51e4-4d46-8f5a-37b9b22ef6b1)
+
+![스크린샷 2023-07-18 오후 8 11 51](https://github.com/Hooooni98/api.fooiy.com/assets/90373395/2c798fc2-5697-4795-adac-3365bdfc5999)
+
+ 앱스토어 : https://apps.apple.com/us/app/%ED%91%B8%EC%9D%B4-%EB%82%B4-%EC%86%90%EC%95%88%EC%9D%98-%EB%AA%A8%EB%93%A0-%EC%9D%8C%EC%8B%9D%EC%A0%90/id1640024571  </br>
+ 플레이스토어 : https://play.google.com/store/apps/details?id=com.fooiy.fooiy </br>
+ 웹사이트 : https://www.fooiy.com/ </br>
